@@ -30,5 +30,11 @@
 
  .botao-secundario{
    background-color: transparent;
+   color: var(--branco);
+   border: 2px solid var(--branco);
+ }
+
+ .container-aviso{
+   font-size: 12px;
    color: var(--cinza);
  }
